@@ -185,6 +185,6 @@ Healthcare AI • NLP • Accessibility Analytics • Data Science • Time Seri
 
 <p align="center">
 
-Research • Healthcare AI • Accessibility • Data Science • IEEE Author
+Research • Healthcare AI • Accessibility • Data Science • IEEE Author.
 
 </p>
