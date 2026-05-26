@@ -144,6 +144,13 @@ Current research focuses on:
 
 ⭐ Power BI Analytics Dashboards
 
+
+🔹 [NYC Airbnb Dashboard](https://github.com/tej-droid-byte/NYC-Airbnb-Statistical-Dashboard)
+
+🔹 [Diabetes Readmission Dashboard](https://github.com/tej-droid-byte/Diabetes-Readmission-Prediction)
+
+🔹 [PHI Accessibility Research](https://github.com/tej-droid-byte/PHI-Accessibility)
+
 ---
 
 # 📈 GitHub Analytics
