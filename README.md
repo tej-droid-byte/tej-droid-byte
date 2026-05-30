@@ -128,7 +128,7 @@ Current research focuses on:
 
 ## 📄 IEEE Publication
 
-**Detection of Ransomware using Machine Learning Approaches**
+**Learning Efficacy Augmentation for Bose—Einstein Condensates of Numerical Representations: A Review**
 
 🔗 https://ieeexplore.ieee.org/document/10961567
 
