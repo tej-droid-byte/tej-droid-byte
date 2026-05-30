@@ -153,29 +153,7 @@ Current research focuses on:
 
 ---
 
-# 📈 GitHub Analytics
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tej-o-droid&show_icons=true&theme=github_dark"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tej-o-droid&layout=compact&theme=github_dark"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=tej-o-droid&theme=github-dark"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tej-o-droid&theme=github_dark"/>
-
-</p>
-
----
 
 # 💼 Areas of Interest
 
