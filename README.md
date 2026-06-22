@@ -138,30 +138,38 @@ Current research focuses on:
 ## 🏆 Gold Price Forecasting using Multi-Head Attention Transformers (IEEE)
 
 <p align="center">
-  <img src="assets/gold_dashboard.png" width="900">
+  <img src="./assets/gold_dashboard.png" width="1000">
 </p>
 
-Transformer-based gold price forecasting research with Power BI dashboarding and IEEE publication.
+Transformer-based financial forecasting research published through IEEE, combined with interactive Power BI analytics for historical trend exploration.
 
 ---
 
-## 🩺 PHI Accessibility Research Pipeline
+## 🩺 PHI Accessibility Research (RIT Research Assistant)
 
 <p align="center">
-  <img src="assets/phi_pipeline_architecture.png" width="850">
+  <img src="./assets/phi_device_distribution.png" width="850">
 </p>
 
 <p align="center">
-  <img src="assets/phi_device_distribution.png" width="850">
+  <img src="./assets/phi_subreddit_distribution.png" width="850">
 </p>
 
 <p align="center">
-  <img src="assets/phi_severity_distribution.png" width="850">
+  <img src="./assets/phi_severity_distribution.png" width="850">
 </p>
 
-Healthcare accessibility analytics research focused on Personal Health Informatics devices, assistive technology barriers, and structured accessibility signal mining.
+Large-scale healthcare accessibility analytics project investigating barriers experienced by users of smart health technologies, including Apple Watch, Dexcom, Fitbit, Garmin, and Oura devices.
 
 ---
+
+🔹 [Gold Price Forecasting](https://github.com/tej-droid-byte/Gold-Price-Forecasting-PowerBI)
+
+🔹 [NYC Airbnb Dashboard](https://github.com/tej-droid-byte/NYC-Airbnb-Statistical-Dashboard)
+
+🔹 [Diabetes Readmission Dashboard](https://github.com/tej-droid-byte/Diabetes-Readmission-Prediction)
+
+🔹 [PHI Accessibility Research](https://github.com/tej-droid-byte/phi-accessibility-data-engineering-pipeline)
 
 ## 📊 Power BI & Analytics Dashboards
 
