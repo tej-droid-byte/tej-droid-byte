@@ -138,12 +138,29 @@ Current research focuses on:
 
 ⭐ PHI Accessibility Research *(In Progress)*
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tej-droid-byte/PHI-Accessibility/main/visuals/device_distribution.png" width="800">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tej-droid-byte/PHI-Accessibility/main/visuals/severity_distribution.png" width="800">
+</p>
+
+---
+
 ⭐ Gold Price Forecasting using Transformers (IEEE)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tej-droid-byte/Gold-Price-Forecasting-PowerBI/main/screenshots/Gold%20Price%20Analytics%20Dashboard.png" width="900">
+</p>
+
+---
 
 ⭐ Bond Portfolio Optimization using Reinforcement Learning
 
-⭐ Power BI Analytics Dashboards
+---
 
+⭐ Power BI Analytics Dashboards
 
 🔹 [NYC Airbnb Dashboard](https://github.com/tej-droid-byte/NYC-Airbnb-Statistical-Dashboard)
 
