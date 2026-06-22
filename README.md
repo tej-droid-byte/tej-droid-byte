@@ -138,39 +138,42 @@ Current research focuses on:
 ## 🏆 Gold Price Forecasting using Multi-Head Attention Transformers (IEEE)
 
 <p align="center">
-  <img src="./assets/gold_dashboard.png" width="1000">
+  <img src="assets/Gold%20Price%20Analytics%20Dashboard%20(1).png" width="1000">
 </p>
 
 Transformer-based financial forecasting research published through IEEE ICSCSA 2025, combining deep learning, time-series forecasting, and Power BI analytics to analyze historical gold price trends and market behavior.
 
-🔗 Project Repository: https://github.com/tej-droid-byte/Gold-Price-Forecasting-PowerBI
+🔗 **Project Repository:**  
+https://github.com/tej-droid-byte/Gold-Price-Forecasting-PowerBI
 
 ---
 
 ## 🩺 PHI Accessibility Research (Research Assistant, RIT)
 
 <p align="center">
-  <img src="./assets/device_distribution.png" width="850">
+  <img src="assets/device_distribution%20(1).png" width="850">
 </p>
 
 <p align="center">
-  <img src="./assets/subreddit_distribution.png" width="850">
+  <img src="assets/subreddit_distribution%20(1).png" width="850">
 </p>
 
 <p align="center">
-  <img src="./assets/severity_distribution.png" width="850">
+  <img src="assets/severity_distribution%20(1).png" width="850">
 </p>
 
 Large-scale healthcare accessibility analytics research investigating barriers experienced by users of smart health technologies, including Apple Watch, Dexcom, Fitbit, Garmin, and Oura devices.
 
 ### Research Highlights
+
 - 5,400+ healthcare discussions analyzed
 - 377 research-ready records curated
 - 45+ accessibility signals identified
 - Device ecosystem and accessibility trend analysis
 - NLP-driven healthcare accessibility intelligence
 
-🔗 Project Repository: https://github.com/tej-droid-byte/phi-accessibility-data-engineering-pipeline
+🔗 **Project Repository:**  
+https://github.com/tej-droid-byte/phi-accessibility-data-engineering-pipeline
 
 ---
 
@@ -181,28 +184,6 @@ Large-scale healthcare accessibility analytics research investigating barriers e
 🔹 [Diabetes Readmission Prediction Dashboard](https://github.com/tej-droid-byte/Diabetes-Readmission-Prediction)
 
 🔹 [Bond Portfolio Optimization using Reinforcement Learning](https://github.com/tej-droid-byte)
-
----
-
----
-
-🔹 [Gold Price Forecasting](https://github.com/tej-droid-byte/Gold-Price-Forecasting-PowerBI)
-
-🔹 [NYC Airbnb Dashboard](https://github.com/tej-droid-byte/NYC-Airbnb-Statistical-Dashboard)
-
-🔹 [Diabetes Readmission Dashboard](https://github.com/tej-droid-byte/Diabetes-Readmission-Prediction)
-
-🔹 [PHI Accessibility Research](https://github.com/tej-droid-byte/phi-accessibility-data-engineering-pipeline)
-
-## 📊 Power BI & Analytics Dashboards
-
-🔹 [NYC Airbnb Dashboard](https://github.com/tej-droid-byte/NYC-Airbnb-Statistical-Dashboard)
-
-🔹 [Diabetes Readmission Dashboard](https://github.com/tej-droid-byte/Diabetes-Readmission-Prediction)
-
-🔹 [PHI Accessibility Research](https://github.com/tej-droid-byte/phi-accessibility-data-engineering-pipeline)
-
-🔹 [Gold Price Forecasting Dashboard](https://github.com/tej-droid-byte/Gold-Price-Forecasting-PowerBI)
 
 ---
 
