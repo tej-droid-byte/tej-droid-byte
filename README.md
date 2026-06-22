@@ -133,21 +133,6 @@ Current research focuses on:
 🔗 https://ieeexplore.ieee.org/document/10961567
 
 ---
-
-# 📌 Featured Projects
-
-⭐ PHI Accessibility Research *(In Progress)*
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tej-droid-byte/PHI-Accessibility/main/visuals/device_distribution.png" width="800">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tej-droid-byte/PHI-Accessibility/main/visuals/severity_distribution.png" width="800">
-</p>
-
----
-
 ⭐ Gold Price Forecasting using Transformers (IEEE)
 
 <p align="center">
