@@ -141,25 +141,48 @@ Current research focuses on:
   <img src="./assets/gold_dashboard.png" width="1000">
 </p>
 
-Transformer-based financial forecasting research published through IEEE, combined with interactive Power BI analytics for historical trend exploration.
+Transformer-based financial forecasting research published through IEEE ICSCSA 2025, combining deep learning, time-series forecasting, and Power BI analytics to analyze historical gold price trends and market behavior.
+
+🔗 Project Repository: https://github.com/tej-droid-byte/Gold-Price-Forecasting-PowerBI
 
 ---
 
-## 🩺 PHI Accessibility Research (RIT Research Assistant)
+## 🩺 PHI Accessibility Research (Research Assistant, RIT)
 
 <p align="center">
-  <img src="./assets/phi_device_distribution.png" width="850">
+  <img src="./assets/device_distribution.png" width="850">
 </p>
 
 <p align="center">
-  <img src="./assets/phi_subreddit_distribution.png" width="850">
+  <img src="./assets/subreddit_distribution.png" width="850">
 </p>
 
 <p align="center">
-  <img src="./assets/phi_severity_distribution.png" width="850">
+  <img src="./assets/severity_distribution.png" width="850">
 </p>
 
-Large-scale healthcare accessibility analytics project investigating barriers experienced by users of smart health technologies, including Apple Watch, Dexcom, Fitbit, Garmin, and Oura devices.
+Large-scale healthcare accessibility analytics research investigating barriers experienced by users of smart health technologies, including Apple Watch, Dexcom, Fitbit, Garmin, and Oura devices.
+
+### Research Highlights
+- 5,400+ healthcare discussions analyzed
+- 377 research-ready records curated
+- 45+ accessibility signals identified
+- Device ecosystem and accessibility trend analysis
+- NLP-driven healthcare accessibility intelligence
+
+🔗 Project Repository: https://github.com/tej-droid-byte/phi-accessibility-data-engineering-pipeline
+
+---
+
+## 📊 Additional Analytics Projects
+
+🔹 [NYC Airbnb Statistical Dashboard](https://github.com/tej-droid-byte/NYC-Airbnb-Statistical-Dashboard)
+
+🔹 [Diabetes Readmission Prediction Dashboard](https://github.com/tej-droid-byte/Diabetes-Readmission-Prediction)
+
+🔹 [Bond Portfolio Optimization using Reinforcement Learning](https://github.com/tej-droid-byte)
+
+---
 
 ---
 
