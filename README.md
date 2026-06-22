@@ -134,8 +134,6 @@ Current research focuses on:
 
 ---
 
-=
-
 ⭐ Power BI Analytics Dashboards
 
 🔹 [NYC Airbnb Dashboard](https://github.com/tej-droid-byte/NYC-Airbnb-Statistical-Dashboard)
