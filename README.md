@@ -133,17 +133,8 @@ Current research focuses on:
 🔗 https://ieeexplore.ieee.org/document/10961567
 
 ---
-⭐ Gold Price Forecasting using Transformers (IEEE)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tej-droid-byte/Gold-Price-Forecasting-PowerBI/main/screenshots/Gold%20Price%20Analytics%20Dashboard.png" width="900">
-</p>
-
----
-
-⭐ Bond Portfolio Optimization using Reinforcement Learning
-
----
+=
 
 ⭐ Power BI Analytics Dashboards
 
